@@ -90,4 +90,4 @@ body:
       attributes:
           label: 😇 Anything else you could add?
           description: |
-            Optional: Any other context about the problem: console log messages, screenshots, videos, etc.
+            Optional: Any other context about the problem: console log messages, screenshots, videos, etc. Need help to attach an image? [Read More](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
