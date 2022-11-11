@@ -1,0 +1,52 @@
+name: ⭐️ Request a New Feature
+description: Got an idea for a New Feature or Improvement? Post your request now!
+title: "[REQUEST] "
+labels: ":bulb: IDEA"
+
+body:
+    - type: checkboxes
+      id: profile
+      attributes:
+        label: 🦄 Select your Profile
+        options:
+          - label: Streamer
+          - label: User
+    - type: dropdown
+      id: section
+      attributes:
+        label: 📍 Where would be the Improvement?
+        options:
+          - 💬 LIVE CHATROOM 
+          - 📺 CHANNEL 
+          - 📡 STREAMING DASHBOARD
+          - 📊 MY.EPLAY ADMIN
+          - 👤 ACCOUNT
+          - 🛒 BUY TOKENS
+          - 🪙 TIPPING
+          - 🔑 JOIN
+          - 🔒 LOGIN
+          - 💡 OTHER
+    - type: textarea
+      id: description
+      attributes:
+          label: ℹ️ Describe your Idea
+          description: Let us know what your idea consists of
+      validations:
+          required: true
+    - type: textarea
+      id: expected
+      attributes:
+          label: ⚡️ Do you have an example?
+          description: |
+            **Optional**:
+            If you have an example of this idea or improvement,
+            share the link or/and screenshot(s) or/and video(s)
+            Need help to attach a file? [Read More](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
+    - type: textarea
+      id: additional-context
+      attributes:
+          label: 😇 Anything else you would like to share?
+          description: |
+            **Optional**:
+            Any other context about your request: your username or channel
+            Or any general comment or feedback
