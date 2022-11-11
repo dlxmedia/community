@@ -32,11 +32,11 @@ body:
       attributes:
         label: 🖥️ Browser
         options:
-          - label: CHROME
-          - label: SAFARI
-          - label: EDGE
-          - label: FIREFOX
-          - label: OTHER
+          - CHROME
+          - SAFARI
+          - EDGE
+          - FIREFOX
+          - OTHER
     - type: dropdown
       id: section
       attributes:
