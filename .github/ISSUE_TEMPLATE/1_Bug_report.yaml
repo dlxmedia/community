@@ -71,9 +71,11 @@ body:
       attributes:
           label: 🧨 How to reproduce
           description: |
+            
             ⚠️  This is the most important part of the report ⚠️ 
-            Without a way to easily reproduce your issue, there is little chance we will be able to help you and work on a fix.
-            Please, take the time to show us screenshots or/and a video that is needed for others to reproduce the problem.
+            Without a way to reproduce your issue, it will make it difficult for our team to work on a fix.
+            Please, take the time to clearly explain what you did to experience your issue.
+            You can show us screenshot(s) or/and video(s) that is needed for others to reproduce the problem.
           value: 
             1. Go to
             2. Then go to
@@ -90,4 +92,4 @@ body:
       attributes:
           label: 😇 Anything else you could add?
           description: |
-            Optional: Any other context about the problem: console log messages, screenshots, videos, etc. Need help to attach an image? [Read More](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
+            Optional: Any other context about the problem: console log messages, screenshots, videos, etc. Need help to attach a file? [Read More](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
