@@ -7,29 +7,53 @@ body:
     - type: checkboxes
       id: profile
       attributes:
-        label: 🦄 Select your profile
+        label: 🦄 Select your Profile
         options:
           - label: Streamer
           - label: User
     - type: checkboxes
+      id: device
+      attributes:
+        label: ⚙️ Device
+        options:
+          - label: 📱 Phone
+          - label: 💻 Computer
+    - type: checkboxes
+      id: os
+      attributes:
+        label: 💾 System
+        options:
+          - label: Apple
+          - label: Android
+          - label: Windows
+    - type: checkboxes
+      id: browser
+      attributes:
+        label: 🖥️ Browser
+        options:
+          - label: Chrome
+          - label: Safari
+          - label: Edge
+          - label: Firefox
+    - type: dropdown
       id: section
       attributes:
         label: 📍 Where is the Bug?
         options:
-          - label: Live Chatroom
-          - label: Channel 
-          - label: Streaming Dashboard
-          - label: Account
-          - label: Buy Tokens
-          - label: Tipping
-          - label: Join
-          - label: Login
-          - label: Other
+          - 💬 Live Chatroom 
+          - 📺 Channel 
+          - 📡 Streaming Dashboard
+          - 👤 Account
+          - 🛒 Buy Tokens
+          - 🪙 Tipping
+          - 🔑 Join
+          - 🔒 Login
+          - 💡 Other
     - type: input
       id: section-other
       attributes:
-          label: Other
-          placeholder: Section with a bug
+          label: 📕 Section
+          placeholder: Section or Page with a Bug
       validations:
           required: false
     - type: textarea
@@ -43,10 +67,14 @@ body:
       id: how-to-reproduce
       attributes:
           label: 🧨 How to reproduce
-          description: |
-            ⚠️  This is the most important part of the report ⚠️
+          description: 
+            `⚠️  This is the most important part of the report ⚠️`
             Without a way to easily reproduce your issue, there is little chance we will be able to help you and work on a fix.
             Please, take the time to show us screenshots or/and a video that is needed for others to reproduce the problem.
+          value: 
+      1. Go to
+      2. Then I clicked on
+      3. and 
       validations:
           required: true
     - type: textarea
