@@ -76,8 +76,7 @@ body:
             Please, take the time to show us screenshots or/and a video that is needed for others to reproduce the problem.
           value: 
             1. Go to
-            2. Then I clicked on
-            3. and 
+            2. Then go to
       validations:
           required: true
     - type: textarea
