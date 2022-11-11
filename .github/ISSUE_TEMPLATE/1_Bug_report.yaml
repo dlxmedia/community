@@ -54,8 +54,9 @@ body:
     - type: input
       id: link
       attributes:
-          label: 📕 Link URL
-          placeholder: https:// or enter page name
+          label: 🔗 Which page is it? 
+          description: Copy & Paste the Link URL here
+          placeholder: https://
       validations:
           required: false
     - type: textarea
