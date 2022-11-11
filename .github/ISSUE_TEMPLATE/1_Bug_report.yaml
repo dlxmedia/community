@@ -49,6 +49,8 @@ body:
           - 🔑 Join
           - 🔒 Login
           - 💡 Other
+        validations:
+          required: false
     - type: input
       id: section-other
       attributes:
@@ -72,9 +74,9 @@ body:
             Without a way to easily reproduce your issue, there is little chance we will be able to help you and work on a fix.
             Please, take the time to show us screenshots or/and a video that is needed for others to reproduce the problem.
           value: 
-      1. Go to
-      2. Then I clicked on
-      3. and 
+            1. Go to
+            2. Then I clicked on
+            3. and 
       validations:
           required: true
     - type: textarea
