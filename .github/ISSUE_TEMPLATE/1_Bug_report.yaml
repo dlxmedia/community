@@ -49,8 +49,6 @@ body:
           - 🔑 Join
           - 🔒 Login
           - 💡 Other
-        validations:
-          required: false
     - type: input
       id: section-other
       attributes:
