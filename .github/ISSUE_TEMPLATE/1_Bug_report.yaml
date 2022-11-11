@@ -7,14 +7,14 @@ body:
     - type: checkboxes
       id: profile
       attributes:
-        label: Select your profile
+        label: 🦄 Select your profile
         options:
           - label: Streamer
           - label: User
     - type: checkboxes
       id: section
       attributes:
-        label: Where is the Bug?
+        label: 📍 Where is the Bug?
         options:
           - label: Live Chatroom
           - label: Channel 
@@ -35,14 +35,14 @@ body:
     - type: textarea
       id: description
       attributes:
-          label: Description
+          label: ℹ️ Description
           description: A clear and concise description of the problem
       validations:
           required: true
     - type: textarea
       id: how-to-reproduce
       attributes:
-          label: How to reproduce
+          label: 🧨 How to reproduce
           description: |
             ⚠️  This is the most important part of the report ⚠️
             Without a way to easily reproduce your issue, there is little chance we will be able to help you and work on a fix.
@@ -52,12 +52,12 @@ body:
     - type: textarea
       id: expected
       attributes:
-          label: Expected Behavior
+          label: ⚡️ Expected Behavior
           description: |
             Optional: only if you have suggestions on a fix/reason for the bug
             Don't hesitate to create a pull request with your solution, it helps get faster feedback.
     - type: textarea
       id: additional-context
       attributes:
-          label: Additional Context
+          label: Anything else you would like to add?
           description: "Optional: any other context about the problem: console log messages, screenshots, videos, etc."
