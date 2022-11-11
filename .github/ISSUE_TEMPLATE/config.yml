@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+    - name: ❓ Ask a question
+      url: https://github.com/dlxmedia/community/discussions/new?category=q-a
+      about: We use GitHub issues for Bugs & New Feature Requests. For support, please use Discussions!
+    - name: 📚 Streamer Wiki & FAQ
+      url: https://help.eplayers.com
+      about: Browse our Wiki for Streamers and Creators, or chat with a technician
+    - name: 💬 User Wiki & FAQ
+      url: https://help.eplay.com
+      about: Find answers and chat with our live support team
