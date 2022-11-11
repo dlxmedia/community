@@ -77,7 +77,7 @@ body:
             Without a way to reproduce your issue, it will make it difficult for our team to work on a fix.
             Please, take the time to clearly explain what you did to experience your issue.
             You can show us screenshot(s) or/and video(s) that is needed for others to reproduce the problem.
-          value: 
+          value: |
             1. Go to
             2. Then go to
       validations:
