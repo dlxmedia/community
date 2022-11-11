@@ -88,12 +88,14 @@ body:
       attributes:
           label: ⚡️ Expected Behavior
           description: |
-            **Optional**: only if you have suggestions on a fix/reason for the bug
+            **Optional**:
+            Only if you have suggestions on a fix/reason for the bug
     - type: textarea
       id: additional-context
       attributes:
           label: 😇 Anything else you could add?
           description: |
-            **Optional**: Any other context about the problem: your username or channel
+            **Optional**:
+            Any other context about the problem: your username or channel
             You can also add any console log messages, screenshots, videos, etc.
             Need help to attach a file? [Read More](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
