@@ -16,44 +16,46 @@ body:
       attributes:
         label: ⚙️ Device
         options:
-          - label: 📱 Phone
-          - label: 💻 Computer
-    - type: checkboxes
+          - label: Phone
+          - label: Computer
+    - type: dropdown
       id: os
       attributes:
         label: 💾 System
         options:
-          - label: Apple
-          - label: Android
-          - label: Windows
-    - type: checkboxes
+          - APPLE
+          - ANDROID
+          - WINDOWS
+          - OTHER
+    - type: dropdown
       id: browser
       attributes:
         label: 🖥️ Browser
         options:
-          - label: Chrome
-          - label: Safari
-          - label: Edge
-          - label: Firefox
+          - label: CHROME
+          - label: SAFARI
+          - label: EDGE
+          - label: FIREFOX
+          - label: OTHER
     - type: dropdown
       id: section
       attributes:
         label: 📍 Where is the Bug?
         options:
-          - 💬 Live Chatroom 
-          - 📺 Channel 
-          - 📡 Streaming Dashboard
-          - 👤 Account
-          - 🛒 Buy Tokens
-          - 🪙 Tipping
-          - 🔑 Join
-          - 🔒 Login
-          - 💡 Other
+          - 💬 LIVE CHATROOM 
+          - 📺 CHANNEL 
+          - 📡 STREAMING DASHBOARD
+          - 👤 ACCOUNT
+          - 🛒 BUY TOKENS
+          - 🪙 TIPPING
+          - 🔑 JOIN
+          - 🔒 LOGIN
+          - 💡 OTHER
     - type: input
-      id: section-other
+      id: link
       attributes:
-          label: 📕 Section
-          placeholder: Section or Page with a Bug
+          label: 📕 Link URL
+          placeholder: https:// or enter page name
       validations:
           required: false
     - type: textarea
@@ -87,5 +89,5 @@ body:
     - type: textarea
       id: additional-context
       attributes:
-          label: Anything else you would like to add?
+          label: 😇 Anything else you would like to add?
           description: "Optional: any other context about the problem: console log messages, screenshots, videos, etc."
