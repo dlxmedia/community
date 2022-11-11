@@ -85,9 +85,9 @@ body:
           label: ⚡️ Expected Behavior
           description: |
             Optional: only if you have suggestions on a fix/reason for the bug
-            Don't hesitate to create a pull request with your solution, it helps get faster feedback.
     - type: textarea
       id: additional-context
       attributes:
-          label: 😇 Anything else you would like to add?
-          description: "Optional: any other context about the problem: console log messages, screenshots, videos, etc."
+          label: 😇 Anything else you could add?
+          description: |
+            Optional: Any other context about the problem: console log messages, screenshots, videos, etc.
