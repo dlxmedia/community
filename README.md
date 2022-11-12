@@ -1,8 +1,9 @@
-<p align="center"><img width="525" alt="ePlay logo Solid" src="https://user-images.githubusercontent.com/7132783/201223119-625494b0-7a9c-493b-b295-9bf5fe6bac3c.png"></p>
+<img width="70%" alt="ePlay logo Solid" src="https://user-images.githubusercontent.com/7132783/201223119-625494b0-7a9c-493b-b295-9bf5fe6bac3c.png">
 
-<h3 align="center">Welcome to ePlay's Community :wave:</h2>
+# :wave: Welcome to ePlay's Community :wave:
+[`Community Guidelines`](https://www.eplay.academy/kb/guide/en/community-guidelines-6b4uiF0Gr4/Steps/625388) - [`Privacy Policy`](https://www.eplay.com/privacy-policy) - [`support@eplay.com`](mailto:support@eplay.com)
 
-
+&nbsp;
 ### `❤️ LIVE CHAT`
 
 > Chat with other fellow streamers and creators, but also connect with the ePlay staff! As we value transparency, and we thrive on working with amazing people like you, we're always here to help and assist you. Join our Discord or chat with our technicians today!
@@ -69,4 +70,5 @@
 > We're always hard at work, around the clock, so here are some live cams of our teams #eyebleach
 >
 > <img src="https://user-images.githubusercontent.com/7132783/201474406-22791ab2-5b4c-4c48-9655-e6e8914cf1b4.gif" height="150"/> <img src="https://user-images.githubusercontent.com/7132783/201474331-4bf27750-8396-4b6f-9893-1db11faebc0a.gif" height="150"/> <img src="https://user-images.githubusercontent.com/7132783/201474383-784b8681-3f90-4d9e-9bdd-aee462c0d1b4.gif" height="150"/>
+
 
