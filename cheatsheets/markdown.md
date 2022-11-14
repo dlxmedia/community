@@ -66,6 +66,7 @@ Quoted H3 with Line Below
 ```markdown
 > quoted text
 > `quoted code`
+> > nested quote
 ```
 
 ### `👁️ WHAT YOU SEE`
@@ -73,14 +74,24 @@ Quoted H3 with Line Below
 &nbsp;
 
 > `quoted code`
+> > nested quote
 
 &nbsp;
 <br>
 
 # LINKS
 
+### `📝 TO WRITE`
 - `<` and `>` for links and email:
 `<https://google.com>`
 
 - Text link:
 `[Text Link](https://textlink.com)`
+
+- Image with link: `[![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://imagelink.com)`
+
+### `👁️ WHAT YOU SEE`
+- <https://google.com>
+- [Text Link](https://textlink.com)
+- Image:<br>
+[![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://imagelink.com)
