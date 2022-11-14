@@ -6,13 +6,12 @@ Easy to understand guide to writing using `markdown` in Github issues, tasks, co
 
 &nbsp;
 # HEADERS
-> Make sure you add a `space` after the `#` sign
-> 
-> `H1 title` and `H2 title` add a line below automatically
-> to force a line to be added, just type `#` below the header
-> 
 
 ### `📝 TO WRITE`
+- ⚠️ Make sure you add a space after the # sign
+- H1 and H2 add a line below automatically
+- Add `#` or `---` to add a divider
+
 ```markdown
 # H1 TITLE
 ## H2 TITLE
@@ -32,18 +31,18 @@ Easy to understand guide to writing using `markdown` in Github issues, tasks, co
 
 ```markdown
 H2 with Emoji + Highlight (code)
-## `⚡️ Title`
+## `⚡️ Page Title`
 ```
- ## `⚡️ Title`
+ ## `⚡️ Page Title`
 
 &nbsp;
 
 ```markdown
 Quoted H3 with Line Below
-> ### header
+> ### Section Title
 ```
 
-> ### header
+> ### Section Title
 
 
 &nbsp;
@@ -55,7 +54,11 @@ Quoted H3 with Line Below
 ------------- | -------------
 `**bold**`  | **bold**
 `*italic*`  | *italic*
+`~~strikethrough~~`  | ~~strikethrough~~
 \`code`  | `code`
+
+&nbsp;
+<br>
 
 # QUOTES
 
@@ -70,3 +73,14 @@ Quoted H3 with Line Below
 &nbsp;
 
 > `quoted code`
+
+&nbsp;
+<br>
+
+# LINKS
+
+- `<` and `>` for links and email:
+`<https://google.com>`
+
+- Text link:
+`[Text Link](https://textlink.com)`
