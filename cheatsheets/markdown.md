@@ -12,7 +12,7 @@ Easy to understand guide to writing using `markdown` in Github issues, tasks, co
 > to force a line to be added, just type `#` below the header
 > 
 
-## `📝 TO WRITE`
+### `📝 TO WRITE`
 ```markdown
 # H1
 ## H2
@@ -20,7 +20,7 @@ Easy to understand guide to writing using `markdown` in Github issues, tasks, co
 #### H4
 ```
 
-## `👁️ WHAT YOU SEE`
+### `👁️ WHAT YOU SEE`
 
 # H1 TITLE
 ## H2 TITLE
@@ -28,7 +28,7 @@ Easy to understand guide to writing using `markdown` in Github issues, tasks, co
 #### H4 TITLE
 
 &nbsp;
-## `🎨 STYLED HEADERS`
+### `🎨 STYLED HEADERS`
 
 > H2 with Emoji + Highlight (code)
 > ```markdown
@@ -41,8 +41,11 @@ Easy to understand guide to writing using `markdown` in Github issues, tasks, co
 > ```markdown
 > ### header
 > #
+> text
 > ```
+
 ### header
 #
+text
 
 &nbsp;
