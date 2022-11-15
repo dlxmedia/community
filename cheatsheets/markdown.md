@@ -1,9 +1,7 @@
 # 👨🏻‍🏫 MARKDOWN CHEATSHEET
 Easy to understand guide to writing using `markdown` in Github issues, tasks, comments and discussions, with examples you can easily `copy/paste`
 
-> 😀 For a list of Emoji codes you can use:
-> <https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md>
-
+> 😀 For a list of Emoji codes you can use this [Emoji Code Cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 &nbsp;
 # HEADERS
 
