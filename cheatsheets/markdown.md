@@ -50,12 +50,12 @@ Quoted H3 with Line Below
 
 # TEXT
 
-`📝 TO WRITE`  | `👁️ WHAT YOU SEE`
-------------- | -------------
-`**bold**`  | **bold**
-`*italic*`  | *italic*
-`~~strikethrough~~`  | ~~strikethrough~~
-\`code`  | `code`
+`📝 TO WRITE`  | `👁️ WHAT YOU SEE` | `⌨️ SHORTCUT`
+------------- | ------------- | -------------
+`**bold**`  | **bold** | `cmd` + `b`
+`*italic*`  | *italic* | `cmd` + `i`
+`~~strikethrough~~`  | ~~strikethrough~~ | n/a
+\`code`  | `code` | `cmd` + `e`
 
 &nbsp;
 <br>
@@ -95,3 +95,41 @@ Quoted H3 with Line Below
 - [Text Link](https://textlink.com)
 - Image:<br>
 [![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://imagelink.com)
+
+&nbsp;
+<br>
+
+# LISTS
+
+### `📝 TO WRITE`
+```markdown
+- bullet point 1
+- bullet point 2
+  - nested bullet point a
+    - nested bullet point i
+
+1. numbered item 1
+2. numbered item 2
+   - nested bullet point a
+
+- [ ] checkbox 1
+- [x] checkbox 2
+- - [ ] nested checkbox a
+> - [ ] nested checkbox b
+```
+
+### `👁️ WHAT YOU SEE`
+
+- bullet point 1
+- bullet point 2
+  - nested bullet point a
+    - nested bullet point i
+
+1. numbered item 1
+2. numbered item 2
+   - nested bullet point a
+
+- [ ] checkbox 1
+- [x] checkbox 2
+- - [ ] nested checkbox a
+> - [ ] nested checkbox b
