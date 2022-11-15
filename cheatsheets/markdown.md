@@ -80,19 +80,38 @@ Quoted H3 with Line Below
 # LINKS
 
 ### `📝 TO WRITE`
-- `<` and `>` for links and email:
-`<https://google.com>`
 
-- Text link:
-`[Text Link](https://textlink.com)`
+```markdown
+[I'm an inline-style link](https://www.google.com)
 
-- Image with link: `[![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://imagelink.com)`
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[I'm a reference-style link][reference]
+
+URLs and <URLs> will automatically get turned into links. 
+http://www.example.com or <http://www.example.com> (but not example.com)
+
+Reference link:
+[reference]: https://reflink1.com
+
+[![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://imagelink.com)
+ 
+```
 
 ### `👁️ WHAT YOU SEE`
-- <https://google.com>
-- [Text Link](https://textlink.com)
-- Image:<br>
-[![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://imagelink.com)
+> inline-style link:<br>
+> [I'm an inline-style link](https://www.google.com)
+
+> inline-style link with title<br>
+> [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+> reference link:<br>
+> [I'm a reference-style link][reference]
+
+[reference]: https://reflink1.com
+
+> Image with link:<br>
+> [![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)](https://imagelink.com)
 
 &nbsp;
 <br>
