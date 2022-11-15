@@ -110,12 +110,14 @@ Quoted H3 with Line Below
 
 1. numbered item 1
 2. numbered item 2
+   1. nested numberd item i
+   2. nested numberd item ii
    - nested bullet point a
 
 - [ ] checkbox 1
 - [x] checkbox 2
 - - [ ] nested checkbox a
-> - [ ] nested checkbox b
+  > - [ ] nested checkbox b
 ```
 
 ### `👁️ WHAT YOU SEE`
@@ -127,9 +129,11 @@ Quoted H3 with Line Below
 
 1. numbered item 1
 2. numbered item 2
+   1. nested numberd item i
+   2. nested numberd item ii
    - nested bullet point a
 
 - [ ] checkbox 1
 - [x] checkbox 2
 - - [ ] nested checkbox a
-> - [ ] nested checkbox b
+  > - [ ] nested checkbox b
