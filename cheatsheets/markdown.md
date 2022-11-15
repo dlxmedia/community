@@ -52,9 +52,9 @@ Quoted H3 with Line Below
 
 `📝 TO WRITE`  | `👁️ WHAT YOU SEE` | `⌨️ SHORTCUT`
 ------------- | ------------- | -------------
-`**bold**`  | **bold** | `cmd` + `b`
-`*italic*`  | *italic* | `cmd` + `i`
-`~~strikethrough~~`  | ~~strikethrough~~ | n/a
+\*\*bold**  | **bold** | `cmd` + `b`
+\*italic*  | *italic* | `cmd` + `i`
+\~~strikethrough~~  | ~~strikethrough~~ | n/a
 \`code`  | `code` | `cmd` + `e`
 
 &nbsp;
