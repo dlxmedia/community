@@ -32,7 +32,7 @@
 ### `⭐️ LINKS THAT DONT SUCK`
 > We got a lot of information for you and links that you'd like to check! We document everything we do because we plan things out and focus on what matters the most for you. Everything we do, everyday, is for YOU! ❤️
 >
-> [![blog](https://user-images.githubusercontent.com/7132783/201474959-7bcc48e1-cf66-48fb-8f27-9845ada79375.png)](https://www.eplay.com/blog/) &nbsp; [![Roadmap-btn](https://user-images.githubusercontent.com/7132783/201473292-b4602e78-5e8c-460c-9194-82074c13c138.png)](https://github.com/dlxmedia/community/milestones) &nbsp; [![BecomeaStreamer](https://user-images.githubusercontent.com/7132783/201473298-12b9c39b-9d1c-40de-b47a-53d243d6c07b.png)](https://www.eplay.com/start) &nbsp; [![Faq wiki](https://user-images.githubusercontent.com/7132783/201473306-c47a7492-063e-498c-a573-af0c0dc50783.png)](https://help.eplayers.com/)
+> [![blog](https://user-images.githubusercontent.com/7132783/201474959-7bcc48e1-cf66-48fb-8f27-9845ada79375.png)](https://www.eplay.com/blog/) &nbsp; <!-- [![Roadmap-btn](https://user-images.githubusercontent.com/7132783/201473292-b4602e78-5e8c-460c-9194-82074c13c138.png)](https://github.com/dlxmedia/community/milestones) &nbsp; --> [![BecomeaStreamer](https://user-images.githubusercontent.com/7132783/201473298-12b9c39b-9d1c-40de-b47a-53d243d6c07b.png)](https://www.eplay.com/start) &nbsp; [![Faq wiki](https://user-images.githubusercontent.com/7132783/201473306-c47a7492-063e-498c-a573-af0c0dc50783.png)](https://help.eplayers.com/)
 
 
 &nbsp;
