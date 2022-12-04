@@ -25,7 +25,7 @@ jobs:
 
       - name: Install Insiders build
         env:
-          GH_TOKEN: ${{ secrets.GH_MKDOCS_TOKEN }}
+          GH_TOKEN: ${{ secrets.COMMUNITY_MKDOCS }}
         run: |
           pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
 
