@@ -1,0 +1,58 @@
+site_name: Eplay Docs
+site_description: 'Eplay Documentation'
+site_author: 'SCTR'
+docs_dir: docs/public/
+nav:
+    - '🏠 Home': index.md
+    - '📖 User Guide':
+        - 'Welcome': 'users/index.md'
+        - 'Getting Started':
+            - 'Page1': 'users/getting-started.md'
+            - 'Signup': 'users/signup.md'
+        - 'Vocabulary': users/vocabulary.md
+    - '⚡️ API docs': 'api/index.md'
+    - '🐞 Report Bug': 'https://www.eplay.com/blog/our-newest-feature-updates/'
+extra_css:
+    - styles/extra.css
+copyright: Copyright &copy; 2021 - 2023 Eplay
+theme:
+    logo: images/logo.png
+    favicon: images/favicon.ico
+    name: 'material'
+    palette:
+        scheme: default
+    features:
+        - navigation.tabs
+        - navigation.expand
+        #- navigation.indexes
+    icon:
+        admonition: #https://squidfunk.github.io/mkdocs-material/reference/admonitions/#fontawesome
+            note: fontawesome/solid/note-sticky
+            abstract: fontawesome/solid/book
+            info: fontawesome/solid/circle-info
+            tip: fontawesome/solid/bullhorn
+            success: fontawesome/solid/check
+            question: fontawesome/solid/circle-question
+            warning: fontawesome/solid/triangle-exclamation
+            failure: fontawesome/solid/bomb
+            danger: fontawesome/solid/skull
+            bug: fontawesome/solid/robot
+            example: fontawesome/solid/flask
+            quote: fontawesome/solid/quote-left
+extra:
+  generator: true #adds the "by MkDocs" foot note
+  social:
+    - icon: fontawesome/brands/github
+      link: https://www.eplay.com/blog/our-newest-feature-updates/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:go@eplay.com
+markdown_extensions:
+    - admonition
+    - attr_list
+    - def_list
+    - md_in_html
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
