@@ -1,0 +1,32 @@
+name: Publish docs via GitHub Pages
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+env:
+  PYTHON_VERSION: 3.x
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    if: github.event.repository.fork == false
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install Insiders build
+        env:
+          GH_TOKEN: ${{ secrets.GH_MKDOCS_TOKEN }}
+        run: |
+          pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
+
+      - run: mkdocs gh-deploy --force
