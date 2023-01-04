@@ -65,13 +65,13 @@ Tabnabbing
 
 ### 📘 Program Rules
 
-### ✅ DO:
+#### ✅ DO:
 > - Read and abide by the program policy.
 > - Perform testing using only accounts that are your own personal/test accounts or an account that you have explicit permission from the account holder to utilize.
 > - Exercise caution when testing to avoid negative impact to customers and the services they depend on.
 > - STOP testing if you are unsure about the impact it may have on our systems. If you think you may cause, or have caused, damage with testing a vulnerability, report your initial finding(s) and request authorization to continue testing.
 
-### ❌ DO NOT:
+#### ❌ DO NOT:
 > - Do not Brute force credentials or guess credentials to gain access to systems.
 > - Do not participate in denial of service attacks.
 > - Do not upload shells or create a backdoor of any kind.
