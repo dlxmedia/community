@@ -63,6 +63,24 @@ Tabnabbing
 - Ability to send a message with a tip (regular chat or private chat)
 - Social engineering
 
+### 📘 Program Rules
+
+### ✅ DO:
+> - Read and abide by the program policy.
+> - Perform testing using only accounts that are your own personal/test accounts or an account that you have explicit permission from the account holder to utilize.
+> - Exercise caution when testing to avoid negative impact to customers and the services they depend on.
+> - STOP testing if you are unsure about the impact it may have on our systems. If you think you may cause, or have caused, damage with testing a vulnerability, report your initial finding(s) and request authorization to continue testing.
+
+### ❌ DO NOT:
+> - Do not Brute force credentials or guess credentials to gain access to systems.
+> - Do not participate in denial of service attacks.
+> - Do not upload shells or create a backdoor of any kind.
+> - Do not engage in any form of social engineering of eplay employees, customers, or vendors.
+> - Do not engage or target any eplay employee, customer, or vendor during your testing.
+> - Do not attempt to extract, download, or otherwise exfiltrate data that you believe may have PII or other sensitive data other than your own.
+> - Do not change passwords of any account that is not yours or that you do not have explicit permission to change. If ever prompted to change a password of an account you did not register yourself or an account that was not provided to you, stop and report the finding immediately.
+> - Do not do anything that would be considered a privacy violation, cause destruction of data, or interrupt or degrade our service. Do not interact with accounts you do not own or without the explicit permission of the account holder.
+
 ### ⛨ Safe harbor
 
 **ePlay** supports safe harbor for security researchers who:
