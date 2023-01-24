@@ -9,7 +9,8 @@ Want to report a Bug or Issue that isnt security related?
 
 ### ⚡️ Posting a Vulnerability 
 
-### 📝 [Report a Vulnerability ONLY via this FORM](https://docs.google.com/forms/d/e/1FAIpQLSda_QNDQwFJTFtzGVkYhAaXc5m4Sqv6ivSeHYBhNigtA3jCqg/viewform?usp=pp_url&entry.1820994568=WWW.EPLAY.COM&entry.868338315=3&entry.149164797=Summary:%0A%5Badd+summary+of+the+vulnerability%5D%0A%0ASteps+To+Reproduce:%0A%5Badd+details+for+how+we+can+reproduce+the+issue%5D%0A%0A%5Badd+step%5D%0A%5Badd+step%5D%0A%5Badd+step%5D%0ASupporting+Material/References:%0A%5Blist+any+additional+material+(e.g.+screenshots,+logs,+etc.)%5D%0A%0A%5Battachment+/+reference%5D)
+### 📝 [Report a Vulnerability ONLY via this FORM](https://github.com/dlxmedia/community/security/advisories/new)
+##### or [Use this Google FORM](https://docs.google.com/forms/d/e/1FAIpQLSda_QNDQwFJTFtzGVkYhAaXc5m4Sqv6ivSeHYBhNigtA3jCqg/viewform?usp=pp_url&entry.1820994568=WWW.EPLAY.COM&entry.868338315=3&entry.149164797=Summary:%0A%5Badd+summary+of+the+vulnerability%5D%0A%0ASteps+To+Reproduce:%0A%5Badd+details+for+how+we+can+reproduce+the+issue%5D%0A%0A%5Badd+step%5D%0A%5Badd+step%5D%0A%5Badd+step%5D%0ASupporting+Material/References:%0A%5Blist+any+additional+material+(e.g.+screenshots,+logs,+etc.)%5D%0A%0A%5Battachment+/+reference%5D)
 
 Normally your report will be acknowledged within 5 days, and you'll receive
 a more detailed response to your report within 10 days indicating the
