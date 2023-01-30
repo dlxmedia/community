@@ -82,6 +82,15 @@ Tabnabbing
 > - Do not change passwords of any account that is not yours or that you do not have explicit permission to change. If ever prompted to change a password of an account you did not register yourself or an account that was not provided to you, stop and report the finding immediately.
 > - Do not do anything that would be considered a privacy violation, cause destruction of data, or interrupt or degrade our service. Do not interact with accounts you do not own or without the explicit permission of the account holder.
 
+### 💰 Rewards
+
+The rewards is based on severity of the vulnerability found and the severity is determined by the CVSS standards ([the Common Vulnerability Scoring Standard](https://www.first.org/cvss/)).
+
+`LOW` > $150 USD
+`MEDIUM` > $300 USD
+`HIGH` > $500 USD
+`CRITICAL` > $1,000 USD
+
 ### ⛨ Safe harbor
 
 **ePlay** supports safe harbor for security researchers who:
