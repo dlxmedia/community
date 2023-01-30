@@ -86,10 +86,10 @@ Tabnabbing
 
 The rewards is based on severity of the vulnerability found and the severity is determined by the CVSS standards ([the Common Vulnerability Scoring Standard](https://www.first.org/cvss/)).
 
-`LOW` > $150 USD
-`MEDIUM` > $300 USD
-`HIGH` > $500 USD
-`CRITICAL` > $1,000 USD
+- `LOW` > $150 USD
+- `MEDIUM` > $300 USD
+- `HIGH` > $500 USD
+- `CRITICAL` > $1,000 USD
 
 ### ⛨ Safe harbor
 
