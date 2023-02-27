@@ -1,7 +1,8 @@
 name: 🐞 Report a Bug or Issue
 description: Help us improve ePlay, and share a bug or issue
-title: "[BUG] "
+title: ":lady_beetle: Bug Title "
 labels: ":lady_beetle:  BUG"
+assignees: "xansing, korrieanne"
 
 body:
     - type: checkboxes
