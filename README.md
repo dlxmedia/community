@@ -6,25 +6,25 @@
 &nbsp;
 ### `❤️ LIVE CHAT`
 
-> Chat with other fellow streamers and creators, but also connect with the ePlay staff! As we value transparency, and we thrive on working with amazing people like you, we're always here to help and assist you. Join our Discord or chat with our technicians today!
+> Chat with other fellow streamers and creators, but also connect with the ePlay team! We value transparency, and we thrive on making sure all our users not only feel heard, but also seen. Join our Discord Community or chat with our support team today!
 > 
 > [![discord-btn](https://user-images.githubusercontent.com/7132783/201472912-cfeac848-3a62-428b-b597-d1dc2ae3d443.png)](https://discord.gg/eplay) &nbsp; [![Chatwithsupport](https://user-images.githubusercontent.com/7132783/201474486-79dc3ec9-36d2-42ce-a6bd-45aee0d0b001.png)](https://help.eplayers.com/en-us/article/how-do-i-contact-support-vxx8y1/)
 
 &nbsp;
 ### `💬 DISCUSSIONS`
-> We chose Github discussions to host our message board as we connect our developers, designers and all of our teams directly with you! Start a discussion or post a question that will be shared with our teams right away. We want to hear from you! We value your voice, your opinion as our goal is to make your life easier, more exciting and empower you to succeed!
+> We chose Github discussions to host our message board as we connect our developers, designers and all of our teams directly with you! Start a discussion or post a question that will be shared with our teams right away. We value your thoughts, as all ideas help us build tools that will not only empower you, but give you the most seamless, fun, experience. Everything to making ePlay easier, more empowering and more exciting everyday. 💗
 > 
 > [![MessageBoard](https://user-images.githubusercontent.com/7132783/201472953-f6c0bcaa-1f93-4ff9-b3e0-81d0c28614c1.png)](https://github.com/dlxmedia/community/discussions) &nbsp; [![Askaquestion](https://user-images.githubusercontent.com/7132783/201472967-21a6348d-551d-41be-8cab-fbc8a6b0a69c.png)](https://github.com/dlxmedia/community/discussions/new?category=q-a)
 
 &nbsp;
 ### `💡 NEW FEATURES & IDEAS`
-> Got an idea to share? or simply wants to upvote the next features you'd like us to add to ePlay? You're in the right place! 
+> Got an idea to share? Want to see what ideas other users are coming up with? Then you're in the right place! Use the upvoting feature to get submissions noticed by our ePlay Product team!
 > 
 > [![Upvotenextfeatures](https://user-images.githubusercontent.com/7132783/201473118-7978b58a-aa06-42df-95cb-e4e9dba6c5ab.png)](https://github.com/dlxmedia/community/discussions/categories/feature-ideas) &nbsp; [![RequestaFeature](https://user-images.githubusercontent.com/7132783/201472957-13c339bb-46bc-4e19-a113-1640b5a60184.png)](https://github.com/dlxmedia/community/issues/new/choose) &nbsp; [![Shareandidea](https://user-images.githubusercontent.com/7132783/201472961-ab30a4f2-a91b-46e5-92f0-9581e707cbb7.png)](https://github.com/dlxmedia/community/discussions/new?category=feature-ideas)
 
 &nbsp;
 ### `🐞 BUGS AND ISSUES`
-> We know we're not perfect and as much as we do our best to avoid any issues, we also know it happens. Reporting a bug helps us and ensures it gets fixed as soon as possible! You can also see bugs that are already reported, and follow it's progress to being smashed and fixed!!
+> We all hate it when things don't work or break. Reporting these bugs can help us spot them sooner and have them fixed as soon as possible! You can also see other users' bug reports & follow our progress as we fix things. 👀
 >
 > [![Reportabug](https://user-images.githubusercontent.com/7132783/201473008-11fb3b15-b784-40a5-94d2-e72934cf5b04.png)](https://github.com/dlxmedia/community/issues/new/choose) &nbsp; [![Reportedissues](https://user-images.githubusercontent.com/7132783/201473011-45e9015b-8c0c-4341-acce-e6b761e3a40e.png)](https://github.com/dlxmedia/community/issues)
 
