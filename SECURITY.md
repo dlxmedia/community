@@ -84,12 +84,8 @@ Tabnabbing
 
 ### 💰 Rewards
 
-The rewards is based on severity of the vulnerability found and the severity is determined by the CVSS standards ([the Common Vulnerability Scoring Standard](https://www.first.org/cvss/)).
-
-- `LOW` > $150 USD
-- `MEDIUM` > $300 USD
-- `HIGH` > $500 USD
-- `CRITICAL` > $1,000 USD
+The rewards is based on severity of the vulnerability found and will be determined by our team.
+> The minimum bounty is `$100` and max is `$500`
 
 ### ⛨ Safe harbor
 
